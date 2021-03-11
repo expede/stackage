@@ -4524,6 +4524,9 @@ packages:
         - hint
         - recursion-schemes
 
+    "Brooklyn Zelenka <hello@brooklynzelenka.com>a @expede":
+        - ipfs
+
     "Grandfathered dependencies":
         - Boolean
         - Decimal
